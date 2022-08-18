@@ -15,8 +15,8 @@ class script(object):
 - Source - https://t.me/metrohdmovies
 
 <b>DEVS:</b>
-- <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>"""
-    MANUELFILTER_TXT = """Help: <b>Filters</b>
+- <a href=https://t.me/metrohdmovies>Team Metro</a>"""
+    MANUELFILTER_TXT = """Help: <b>𝙵𝚒𝚕𝚝𝚎𝚛𝚜</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Julie will respond whenever a keyword is found the message
 
@@ -30,7 +30,7 @@ class script(object):
 • /filters - <code>list all the filters of a chat</code>
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
-    BUTTON_TXT = """Help: <b>Buttons</b>
+    BUTTON_TXT = """Help: <b>𝙱𝚞𝚝𝚝𝚘𝚗𝚜</b>
 
 - Julie Supports both url and alert inline buttons.
 
@@ -44,14 +44,14 @@ class script(object):
 
 <b>𝙰𝚕𝚎𝚛𝚝 𝚋𝚞𝚝𝚝𝚘𝚗𝚜 :</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
-    AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
+    AUTOFILTER_TXT = """Help: <b>𝙰𝚞𝚝𝚘 𝙵𝚒𝚕𝚝𝚎𝚛</b>
 
 <b>NOTE:</b>
 1. Make me the admin of your channel if it's private.
 2. make sure that your channel does not contains camrips, porn and fake files.
 3. Forward the last message to me with quotes.
  I'll add all the files in that channel to my db."""
-    CONNECTION_TXT = """Help: <b>Connections</b>
+    CONNECTION_TXT = """Help: <b>𝙲𝚘𝚗𝚗𝚎𝚌𝚝𝚒𝚘𝚗𝚜</b>
 
 - Used to connect bot to PM for managing filters 
 - it helps to avoid spamming in groups.
@@ -64,17 +64,17 @@ class script(object):
 • /connect  - <code>connect a particular chat to your PM</code>
 • /disconnect  - <code>disconnect from a chat</code>
 • /connections - <code>list all your connections</code>"""
-    EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
+    EXTRAMOD_TXT = """Help: <b>𝙴𝚡𝚝𝚛𝚊 𝙼𝚘𝚍𝚞𝚕𝚎𝚜</b>
 
 <b>NOTE:</b>
-these are the extra features of Eva Maria
+these are the extra features of Julie
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
 • /info  - <code>get information about a user.</code>
 • /imdb  - <code>get the film information from IMDb source.</code>
 • /search  - <code>get the film information from various sources.</code>"""
-    ADMIN_TXT = """Help: <b>Admin mods</b>
+    ADMIN_TXT = """Help: <b>𝙰𝚍𝚖𝚒𝚗 𝚖𝚘𝚍𝚜</b>
 
 <b>NOTE:</b>
 This module only works for my admins
